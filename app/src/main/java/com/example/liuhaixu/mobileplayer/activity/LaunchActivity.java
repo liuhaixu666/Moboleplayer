@@ -1,12 +1,13 @@
-package com.example.liuhaixu.mobileplayer;
+package com.example.liuhaixu.mobileplayer.activity;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
+
+import com.example.liuhaixu.mobileplayer.R;
 
 import androidx.appcompat.app.AppCompatActivity;
 
